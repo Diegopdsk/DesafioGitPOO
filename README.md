@@ -1,4 +1,4 @@
-# DesafioGitPOO ![](https://www.gratispng.com/png-1ab0n4/)
+# DesafioGitPOO
 Projeto JAVA para entrega na plataforma DIO para a GFT Start 5
 **************************************************************
 *Desafios de implementação:*  
